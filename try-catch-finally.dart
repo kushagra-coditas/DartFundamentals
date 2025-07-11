@@ -14,4 +14,7 @@ void main() {
   } catch (e) {
     print("Catch it: $e");
   }
+  finally {
+    print("magnificent error! "); 
+  }
 }
